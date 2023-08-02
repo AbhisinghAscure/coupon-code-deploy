@@ -18,8 +18,8 @@
   "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
   "engines": {
-  "node": "16.17.0" // or ">=18.12.0"
+  "node": "16.17.0" 
   }
 }
