@@ -1,0 +1,64 @@
+/* input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  div {
+    border-radius: 5px;
+    padding: 20px;
+  } */
+  button.copuncode, .close-icon {
+    cursor: grab;
+}
+.coupon-form input {
+  width: 59%;
+  height: 47px;
+  font-size: 14px;
+  border-radius: 6px;
+  outline: none;
+  box-shadow: unset;
+}
+
+.coupon-form {
+  margin-bottom: 10px;
+}
+
+.coupon-form button {
+  padding: 5px;
+  height: 47px;
+  border-radius: 5px;
+  width: 37%;
+  margin-left: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+.coupan-valid{
+  color:green;
+  font-size: 20px;
+  font-weight: bold;
+}
+.error-code{
+  color:red;
+  font-size: 20px;
+  font-weight: bold;
+}
