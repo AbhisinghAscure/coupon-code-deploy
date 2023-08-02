@@ -50,5 +50,8 @@
     "web/frontend",
     "extensions/*"
   ],
-  "author": "ascure"
+  "author": "ascure",
+  "engines": {
+  "node": "16.17.0" // or ">=18.12.0"
+  }
 }
