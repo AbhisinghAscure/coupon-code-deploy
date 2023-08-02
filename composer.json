@@ -1,0 +1,16 @@
+{
+    "name": "abhisinghascure/coupon-code-deploy",
+    "description": "A simple PHP project",
+    "authors": [
+        {
+            "name": "AbhisinghAscure",
+            "email": "abhishek.singh@ascuretech.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
